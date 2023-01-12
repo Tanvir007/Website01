@@ -1,2 +1,2 @@
 # Website01
-This is a HTML, CSS and JavaScript code .
+This website was designed by HTML, CSS and JavaScript.
